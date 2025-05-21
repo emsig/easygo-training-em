@@ -1,26 +1,20 @@
-Masterclass 3: EM Modelling
-===========================
+EasyGO Training: EM Modelling
+=============================
 
-.. image:: figures/delphi-logo.png
-   :width: 400px
-   :target: https://www.delphi-consortium.com/
-   :alt: Delphi-Consortium
+TODO: Add EasyGO Logo
 
 
-**2023 Delphi Meetings in Houston & The Hague**
+**2025 EasyGO Training, ETH Zürich**
 
 
 .. image:: https://mybinder.org/badge_logo.svg
-   :target: https://mybinder.org/v2/gh/emsig/houston23-mc3/main
+   :target: https://mybinder.org/v2/gh/emsig/easygo-training-em/main
    :alt: MyBinder
 .. image:: https://colab.research.google.com/assets/colab-badge.svg
-   :target: https://colab.research.google.com/github/emsig/houston23-mc3
+   :target: https://colab.research.google.com/github/emsig/easygo-training-em
    :alt: Colab
-.. image:: https://jupyterlite.rtfd.io/en/latest/_static/badge-launch.svg
-   :target: https://emsig.xyz/emlite
-   :alt: JupyterLite
-.. image:: https://img.shields.io/github/license/emsig/houston23-mc3.svg
-   :target: https://github.com/emsig/houston23-mc3/blob/main/LICENSE
+.. image:: https://img.shields.io/github/license/emsig/easygo-training-em.svg
+   :target: https://github.com/emsig/easygo-training-em/blob/main/LICENSE
    :alt: License
 
 |
@@ -60,13 +54,13 @@ Local Installation
 ''''''''''''''''''
 
 1. Download and install the corresponding Mambaforge for your OS:  
-   https://github.com/conda-forge/miniforge#mambaforge
+   https://www.github.com/conda-forge/miniforge#miniforge
 
    (Mambaforge uses mamba, the faster conda implementation, and sets
    conda-forge, the community maintained package repository, as default
    source.)
 
-2. Download or clone the repo at https://github.com/emsig/houston23-mc3, and
+2. Download or clone the repo at https://github.com/emsig/easygo-training-em, and
    ``cd`` to the directory.
 
 3. Install the environment with
@@ -75,20 +69,20 @@ Local Installation
 
        mamba env create -f environment.yml
 
-   This will install an environment called ``houston23-mc3``.
+   This will install an environment called ``easygo-training-em``.
 
 4. Activate the environment with
 
    .. code-block:: python
 
-       mamba activate houston23-mc3
+       mamba activate easygo-training-em
 
 5. Add this kernel to the recognized Jupyter kernels (optional, to have access
    from other envs as well) with
 
    .. code-block:: python
 
-       python -m ipykernel install --user --name houston23-mc3
+       python -m ipykernel install --user --name easygo-training-em
 
 6. Start Jupyter Lab
 
@@ -128,15 +122,7 @@ Online
   Google Colab: If you have a Google account you can also run it on Colab. You
   have to login in order to run it.
 
-- .. image:: https://jupyterlite.rtfd.io/en/latest/_static/badge-launch.svg
-     :target: https://emsig.xyz/emlite
-     :alt: JupyterLite
 
-  JupyterLite: I transferred some of the notebooks (the computationally light
-  ones) to JupyterLite. JupyterLite is a static website with client-side
-  computation. You can run everything in it without installing anything at all.
-  Just be aware that everything happens in the cache of your browser. If you
-  clean the cache, your stuff is gone.
 
 Codes, their manuals and galleries
 ----------------------------------
@@ -186,11 +172,11 @@ DISC 2017 & em-apps
 - Repo `github.com/geoscixyz/em-apps <https://github.com/geoscixyz/em-apps>`_
 
 
-Software Underground (Swung) Transform Tutorials `swu.ng <https://swu.ng>`_
-'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+Software Underground (Swung) Transform Tutorials `softwareunderground.org <https://softwareunderground.org>`_
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 ..
-  swu.ng/t20-playlist; swu.ng/t21-playlist; swu.ng/t22-playlist
+  swu.ng/t20-playlist; swu.ng/t21-playlist; swu.ng/t22-playlist  # TODO UPDATE
 
 - SimPEG 2020: `youtu.be/jZ7Sj9cnnso <https://youtu.be/jZ7Sj9cnnso>`_
 - SimPEG 2021: `youtu.be/5MiaebDwWUQ <https://youtu.be/5MiaebDwWUQ>`_

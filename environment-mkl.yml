@@ -1,4 +1,4 @@
-name: houston23-mc3-mkl
+name: easygo-training-em-mkl
 
 channels:
     - conda-forge
