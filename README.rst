@@ -4,7 +4,7 @@ Controlled-source electromagnetic (CSEM) survey design for geothermal applicatio
 
 
 .. image:: figures/easygo-on-logo.png
-   :width: 200px
+   :width: 150px
    :target: https://easygo-itn.eu/
    :alt: EasyGO logo
 
