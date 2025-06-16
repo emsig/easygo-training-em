@@ -3,7 +3,7 @@ EasyGO Training: EM Modelling
 Controlled-source electromagnetic (CSEM) survey design for geothermal applications
 
 
-.. image:: figures/easygo-logo.png
+.. image:: figures/easygo-logo.pdf
    :width: 200px
    :target: https://easygo-itn.eu/
    :alt: EasyGO logo
