@@ -64,7 +64,8 @@ Structure of this Class
 
 - 3D modelling with ``emg3d`` ('40) 
 - Complexities of infrastructure for geothermal monitoring with EM ('10)
-- Q & A and `Further links <#further-links>`_ ('10')
+- Q&A and `Further links <#further-links>`_ ('10')
+
 
 
 Pre-requisites to run the examples
