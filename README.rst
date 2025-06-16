@@ -48,7 +48,7 @@ Structure of this Class
 
 - `Pre-requisites to run the examples <#pre-requisites-to-run-the-examples>`_ ('10)
 
-- Layered-Earth modelling with ``empymod`` ('30)
+- Layered-Earth modelling with ``empymod`` using empymod.jptnb ('30)
 
 10:00 - 11:00
 
