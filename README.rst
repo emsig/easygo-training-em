@@ -6,8 +6,8 @@ EasyGO Training: EM Modelling
    :target: https://easygo-itn.eu/
    :alt: EasyGO logo
 
-.. image:: figures/idealeague-logo.png
-   :width: 120px
+.. image:: figures/idealeague-logo_small.png
+   :width: 170px
    :target: https://idealeague.org/about/
    :alt: IdeaLeague logo
 
