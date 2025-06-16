@@ -1,5 +1,7 @@
 EasyGO Training: EM Modelling
 =============================
+Controlled-source electromagnetic (CSEM) survey design for geothermal applications
+
 
 .. image:: figures/easygo-logo.png
    :width: 200px
@@ -33,21 +35,36 @@ We will use **empymod** and **emg3d** to model
 electromagnetic data in the diffusive regime.
 
 
-Structure of this Masterclass
+Structure of this Class
 -----------------------------
 
-- Introduction ('30)
- 
-  - `Pre-requisites to run the examples <#pre-requisites-to-run-the-examples>`_
-  - EM in Exploration Geophysics in 10 Minutes
-  - `Codes, their manuals and galleries <#codes-their-manuals-and-galleries>`_
+9:00 - 10:00
 
-- Modelling with ``empymod`` ('30)
+- Introduction ('20)
 
-- Modelling with ``emg3d`` ('30)
+   - EM Geophysics
+   - Material property: resistivity
+   - Controlled-source electromagnetics
 
+- `Pre-requisites to run the examples <#pre-requisites-to-run-the-examples>`_ ('10)
 
-- `Further links <#further-links>`_
+- Layered-Earth modelling with ``empymod`` ('30)
+
+10:00 - 11:00
+
+- CSEM monitoring of an Aqufer Thermal Energy Storage (ATES) system ('20)
+
+   - ATES site at TU Delft 
+   - Resistivity-temperature relationship
+
+- Modelling with ``empymod`` to design a CSEM survey for monitoring the ATES site ('30)
+- Discussion on suitable survey design ('10)
+
+11:15 - 12:15
+
+- 3D modelling with ``emg3d`` ('40) 
+- Complexities of infrastructure for geothermal monitoring with EM ('10)
+- Q & A and `Further links <#further-links>`_ ('10')
 
 
 Pre-requisites to run the examples
