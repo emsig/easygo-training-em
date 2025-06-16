@@ -42,7 +42,7 @@ Structure of this Class
 
 - Introduction ('20)
 
-   - EM Geophysics
+   - ELectromagnetic (EM) Geophysics
    - Material property: resistivity
    - Controlled-source electromagnetics
 
@@ -56,6 +56,7 @@ Structure of this Class
 
    - ATES site at TU Delft 
    - Resistivity-temperature relationship
+   - Survey configurations and EM field components
 
 - Modelling with ``empymod`` using ``empymod_ATES.ipynb`` to design a CSEM survey for monitoring the ATES site ('30)
 - Discussion on suitable survey design ('10)
