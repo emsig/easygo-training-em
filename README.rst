@@ -3,6 +3,11 @@ EasyGO Training: EM Modelling
 
 TODO: Add EasyGO Logo
 
+.. image:: https://raw.github.com/emsig/easygo-training-em/figures/easygo-logo.png
+   :width: 200px
+   :target: https://easygo-itn.eu/
+   :alt: EasyGO logo
+
 
 **2025 EasyGO Training, ETH Zürich**
 
