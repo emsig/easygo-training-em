@@ -48,7 +48,7 @@ Structure of this Class
 
 - `Pre-requisites to run the examples <#pre-requisites-to-run-the-examples>`_ ('10)
 
-- Layered-Earth modelling with ``empymod`` using empymod.ipynb ('30)
+- Layered-Earth modelling with ``empymod`` using ``empymod.ipynb`` ('30)
 
 10:00 - 11:00
 
@@ -57,12 +57,12 @@ Structure of this Class
    - ATES site at TU Delft 
    - Resistivity-temperature relationship
 
-- Modelling with ``empymod`` using empymod_ATES.ipynb to design a CSEM survey for monitoring the ATES site ('30)
+- Modelling with ``empymod`` using ``empymod_ATES.ipynb`` to design a CSEM survey for monitoring the ATES site ('30)
 - Discussion on suitable survey design ('10)
 
 11:15 - 12:15
 
-- 3D modelling with ``emg3d`` using emg3d.ipynb ('40) 
+- 3D modelling with ``emg3d`` using ``emg3d.ipynb`` ('40) 
 - Complexities of infrastructure for geothermal monitoring with EM ('10)
 - Q&A and `Further links <#further-links>`_ ('10')
 
