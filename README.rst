@@ -58,12 +58,13 @@ Structure of this Class
    - Resistivity-temperature relationship
    - Survey configurations and EM field components
 
-- Modelling with ``empymod`` using ``empymod_ATES.ipynb`` to design a CSEM survey for monitoring the ATES site ('30)
+- Design a CSEM survey for monitoring the ATES site using ``empymod_ATES.ipynb`` ('30)
 - Discussion on suitable survey design ('10)
 
 11:15 - 12:15
 
-- 3D modelling with ``emg3d`` using ``emg3d.ipynb`` ('40) 
+- 3D modelling with ``emg3d`` using ``emg3d.ipynb`` ('20) 
+- Improve you CSEM survey design for monitoring the ATES site using ``emg3d_ATES.ipynb`` ('20) 
 - Complexities of infrastructure for geothermal monitoring with EM ('10)
 - Q&A and `Further links <#further-links>`_ ('10')
 
