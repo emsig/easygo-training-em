@@ -30,7 +30,7 @@ Controlled-source electromagnetic (CSEM) survey design for geothermal applicatio
 |
 
 In the following three hours, we are going to design a controlled-source electromagnetic 
-survey suitable to monitor a near-surface geothermal project.
+survey to monitor a near-surface geothermal project.
 
 We will use **empymod** and **emg3d** to model
 electromagnetic data in the diffusive regime.
