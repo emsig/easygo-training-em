@@ -35,7 +35,7 @@ survey to monitor a near-surface geothermal project.
 We will use ``empymod`` and ``emg3d`` to model
 electromagnetic data in the diffusive regime.
 
-``CSEM_survey_design_EasygoOn.pdf`` is a presentation with supporting information for this training.
+``CSEM_survey_design_EasygoON.pdf`` is a presentation with supporting information for this training.
 
 
 Structure of this Class
